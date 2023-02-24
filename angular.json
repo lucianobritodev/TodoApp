@@ -63,7 +63,8 @@
               "browserTarget": "TodoApp:build:production"
             },
             "development": {
-              "browserTarget": "TodoApp:build:development"
+              "browserTarget": "TodoApp:build:development",
+              "port": 3000
             }
           },
           "defaultConfiguration": "development"
